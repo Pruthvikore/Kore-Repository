@@ -1,2 +1,5 @@
 Hello World..!
 How are you...
+Name: Kore
+Education:Masters
+Subject: computers
